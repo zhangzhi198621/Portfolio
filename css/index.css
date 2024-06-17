@@ -7,12 +7,6 @@
 #news{
     background-image: url(../images/背景圖.jpg);
 }
-#service{
-    background-image: url(../images/p3.jpg);
-}
-#contact{
-    background-image: url(../images/p4.jpg);
-}
 /* 將視窗的寬高設定為滿版（100%） */
 html,
 body{
@@ -43,4 +37,14 @@ section{
 }
 .txt-bg i{
     color: blue
+}
+nav img{
+ height: 50px;
+}
+.info img{
+    width: 40%;
+}
+.info .box{
+    /* border: 1px solid rebeccapurple; */
+    float: left;
 }
